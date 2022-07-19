@@ -1,0 +1,12 @@
+n_realizations	1
+print_info	1
+n_generations	50000
+pop_size1	1000
+pop_size2	1000
+traj_step	5
+mut_rate1	0.00002
+mut_rate2	0.00002
+sel_coef1	0.005
+sel_coef2	-0.005
+turn_long_dts	50,100
+seed	3

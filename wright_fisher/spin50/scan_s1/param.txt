@@ -1,0 +1,12 @@
+n_realizations	10000
+n_turn_points	20
+n_init_seq	5
+relax_time_base	4000
+relax_time_rand	500
+pop_size1	3000
+pop_size2	3000
+traj_step	50
+mut_rate1	0.001
+mut_rate2	0.001
+sel_coefs	0,0.001,0.0022,0.0046,0.01,0.022,0.046,0.1,0.22
+turn_long_dt	50,100,200
