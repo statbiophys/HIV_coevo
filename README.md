@@ -1,6 +1,6 @@
 ### Repository associated with the paper:
 
-#### Inspecting the interaction between HIV and the immune system through genetic
+### Inspecting the interaction between HIV and the immune system through genetic
 Andrea Mazzolini, Thierry Mora, and Aleksandra Walczak
 
 
